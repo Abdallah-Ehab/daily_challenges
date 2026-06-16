@@ -10,6 +10,22 @@ content:
       "status": "completed",
       "created_at": "2026-06-15",
       "completed_at": "2026-06-15"
+    },
+    {
+      "id": 2,
+      "type": "JS/TS Runtime & Language Internals",
+      "title": "Event Emitter",
+      "description": "Implement an EventEmitter class with subscribe, unsubscribe, and emit",
+      "language": "JavaScript",
+      "status": "completed",
+      "created_at": "2026-06-17",
+      "completed_at": "2026-06-17",
+      "keyPattern": "Pub/sub pattern",
+      "complexity": {
+        "time": "O(1)",
+        "space": "O(n)"
+      },
+      "difficulty": "Stretch"
     }
   ]
 }
